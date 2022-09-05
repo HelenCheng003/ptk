@@ -1,0 +1,12 @@
+# Usage: pip install -r requirements.txt
+
+numpy
+pandas
+tensorflow
+matplotlib
+librosa
+soundfile
+pathlib
+scipy
+sklearn
+pydub
